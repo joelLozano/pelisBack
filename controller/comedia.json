@@ -1,0 +1,171 @@
+{
+    "genero": "Comedia",
+    "peliculas": [
+  
+      {
+        "id": 1,
+        "titulo": "La Gran Estafa",
+        "genero": "Comedia",
+        "duracion": "125 minutos",
+        "director": "Matt Damon",
+        "sinopsis": "Un grupo de estafadores planea robar un casino en Las Vegas durante un combate de boxeo importante.",
+        "actores": [
+          "George Clooney",
+          "Brad Pitt",
+          "Matt Damon",
+          "Julia Roberts"
+        ],
+        "portada": "https://www.lahiguera.net/cinemania/pelicula/6395/la_gran_estafa_americana-cartel-5306.jpg"
+      },
+      {
+        "id": 2,
+        "titulo": "Noche en el Museo",
+        "genero": "Comedia",
+        "duracion": "108 minutos",
+        "sinopsis": "Un guardia de seguridad nocturno descubre que las exhibiciones de un museo cobran vida durante la noche.",
+        "actores": [
+          "Ben Stiller",
+          "Robin Williams",
+          "Owen Wilson",
+          "Dick Van Dyke"
+        ],
+        "portada": "https://pics.filmaffinity.com/Noche_en_el_museo-110975630-large.jpg"
+      },
+      {
+        "id": 3,
+        "titulo": "Zoolander",
+        "genero": "Comedia",
+        "duracion": "90 minutos",
+        "sinopsis": "Un modelo masculino poco inteligente pero carismático se ve envuelto en una conspiración criminal.",
+        "actores": [
+          "Ben Stiller",
+          "Owen Wilson",
+          "Christine Taylor",
+          "Will Ferrell"
+        ],
+        "portada": "https://m.media-amazon.com/images/I/91xDxe8RPPL._AC_UF894,1000_QL80_.jpg"
+      },
+      {
+        "id": 6,
+        "titulo": "Ace Ventura: Pet Detective",
+        "genero": "Comedia",
+        "duracion": "86 minutos",
+        "sinopsis": "Un detective excéntrico y amante de los animales busca el delfín mascota de un equipo de fútbol americano desaparecido.",
+        "actores": [
+          "Jim Carrey",
+          "Courteney Cox",
+          "Sean Young",
+          "Tone Loc"
+        ],
+        "portada": "https://cdn.shopify.com/s/files/1/0185/4636/products/GlenBrogan_AceVenturaAnimated.png?v=1634872570",
+        "anio": 1994,
+        "director": "Tom Shadyac"
+      },
+      {
+        "id": 7,
+        "titulo": "The Hangover",
+        "genero": "Comedia",
+        "duracion": "100 minutos",
+        "sinopsis": "Un grupo de amigos despierta en Las Vegas sin recordar lo que sucedió durante su despedida de soltero.",
+        "actores": [
+          "Bradley Cooper",
+          "Ed Helms",
+          "Zach Galifianakis",
+          "Justin Bartha"
+        ],
+        "portada": "https://m.media-amazon.com/images/I/81tGPArMnsL._AC_UF894,1000_QL80_.jpg",
+        "anio": 2009,
+        "director": "Todd Phillips"
+      },
+      {
+        "id": 8,
+        "titulo": "Anchorman: The Legend of Ron Burgundy",
+        "genero": "Comedia",
+        "duracion": "94 minutos",
+        "sinopsis": "Un presentador de noticias egocéntrico lucha por mantener su estatus cuando una reportera ambiciosa se une al equipo.",
+        "actores": [
+          "Will Ferrell",
+          "Christina Applegate",
+          "Paul Rudd",
+          "Steve Carell"
+        ],
+        "portada": "https://m.media-amazon.com/images/I/51gbWRaL0IL._AC_UF894,1000_QL80_.jpg",
+        "anio": 2004,
+        "director": "Adam McKay"
+      },
+      {
+        "id": 9,
+        "titulo": "Groundhog Day",
+        "genero": "Comedia",
+        "duracion": "101 minutos",
+        "sinopsis": "Un meteorólogo gruñón se ve atrapado en un bucle temporal, repitiendo el mismo día una y otra vez.",
+        "actores": [
+          "Bill Murray",
+          "Andie MacDowell",
+          "Chris Elliott",
+          "Stephen Tobolowsky"
+        ],
+        "portada": "https://www.sonypictures.com/sites/default/files/styles/max_560x840/public/title-key-art/groundhogday_onesheet_1400x2100.png?itok=MqGsXkYg",
+        "anio": 1993,
+        "director": "Harold Ramis"
+      },
+      {
+        "id": 10,
+        "titulo": "Dumb and Dumber",
+        "genero": "Comedia",
+        "duracion": "107 minutos",
+        "sinopsis": "Dos amigos con poca inteligencia se embarcan en un viaje para devolver una maleta perdida a su dueña.",
+        "actores": [
+          "Jim Carrey",
+          "Jeff Daniels",
+          "Lauren Holly",
+          "Mike Starr"
+        ],
+        "portada": "https://m.media-amazon.com/images/I/81EXdey3PEL._AC_UF894,1000_QL80_.jpg",
+        "anio": 1994,
+        "director": "Peter Farrelly, Bobby Farrelly"
+      },
+      {
+        "id": 18,
+        "titulo": "Shaun of the Dead",
+        "genero": "Comedia",
+        "duracion": "99 minutos",
+        "sinopsis": "Un hombre común intenta rescatar a su madre y a su novia durante un apocalipsis zombi en Londres.",
+        "actores": [
+          "Simon Pegg",
+          "Nick Frost",
+          "Kate Ashfield",
+          "Lucy Davis"
+        ],
+        "portada": "https://m.media-amazon.com/images/I/71zyRZjUhRL._AC_UF894,1000_QL80_.jpg"
+      },
+      {
+        "id": 19,
+        "titulo": "Ted",
+        "genero": "Comedia",
+        "duracion": "106 minutos",
+        "sinopsis": "Un hombre adulto debe lidiar con las consecuencias de tener un oso de peluche parlante como amigo de la infancia.",
+        "actores": [
+          "Mark Wahlberg",
+          "Mila Kunis",
+          "Seth MacFarlane"
+        ],
+        "portada": "https://m.media-amazon.com/images/M/MV5BMTQ1OTU0ODcxMV5BMl5BanBnXkFtZTcwOTMxNTUwOA@@._V1_.jpg"
+      },
+      {
+        "id": 20,
+        "titulo": "Superbad",
+        "genero": "Comedia",
+        "duracion": "113 minutos",
+        "sinopsis": "Dos amigos adolescentes planean una fiesta para celebrar su graduación antes de separarse para ir a la universidad.",
+        "actores": [
+          "Jonah Hill",
+          "Michael Cera",
+          "Christopher Mintz-Plasse",
+          "Seth Rogen"
+        ],
+        "portada": "https://m.media-amazon.com/images/I/5169stBwr5L._AC_UF894,1000_QL80_.jpg"
+      }
+    ]
+  }
+  

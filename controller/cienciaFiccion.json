@@ -1,0 +1,146 @@
+{
+    "genero": "Ciencia Ficcion",
+    "peliculas": [
+    {
+      "titulo": "El día de la Independencia",
+      "director": "Roland Emmerich",
+      "anio": 1996,
+      "portada": "https://www.dondeir.com/wp-content/uploads/2022/06/volver-al-futuro-musical.jpg",
+      "clasificacion": false
+    },
+    {
+      "titulo": "Blade Runner",
+      "director": "Ridley Scott",
+      "anio": 1982,
+      "portada": "https://www.dondeir.com/wp-content/uploads/2022/06/volver-al-futuro-musical.jpg",
+      "clasificacion": false
+    },
+    {
+      "titulo": "Matrix",
+      "director": "Lana Wachowski, Lilly Wachowski",
+      "anio": 1999,
+      "portada": "https://www.dondeir.com/wp-content/uploads/2022/06/volver-al-futuro-musical.jpg",
+      "clasificacion": false
+    },
+    {
+      "titulo": "Volver al Futuro",
+      "director": "Robert Zemeckis",
+      "anio": 1985,
+      "portada": "https://www.dondeir.com/wp-content/uploads/2022/06/volver-al-futuro-musical.jpg",
+      "clasificacion": false
+    },
+    {
+      "titulo": "Interestelar",
+      "director": "Christopher Nolan",
+      "anio": 2014,
+      "portada": "https://www.dondeir.com/wp-content/uploads/2022/06/volver-al-futuro-musical.jpg",
+      "clasificacion": false
+    },
+    {
+      "titulo": "Alien: El octavo pasajero",
+      "director": "Ridley Scott",
+      "anio": 1979,
+      "portada": "https://www.dondeir.com/wp-content/uploads/2022/06/volver-al-futuro-musical.jpg",
+      "clasificacion": false
+    },
+    {
+      "titulo": "Jurassic Park",
+      "director": "Steven Spielberg",
+      "anio": 1993,
+      "portada": "https://www.dondeir.com/wp-content/uploads/2022/06/volver-al-futuro-musical.jpg",
+      "clasificacion": false
+    },
+    {
+      "titulo": "El Quinto Elemento",
+      "director": "Luc Besson",
+      "anio": 1997,
+      "portada": "https://www.dondeir.com/wp-content/uploads/2022/06/volver-al-futuro-musical.jpg",
+      "clasificacion": false
+    },
+    {
+      "titulo": "Star Wars: Episodio IV - Una Nueva Esperanza",
+      "director": "George Lucas",
+      "anio": 1977,
+      "portada": "https://www.dondeir.com/wp-content/uploads/2022/06/volver-al-futuro-musical.jpg",
+      "clasificacion": false
+    },
+    {
+      "titulo": "Terminator 2: Judgment Day",
+      "director": "James Cameron",
+      "anio": 1991,
+      "portada": "https://www.dondeir.com/wp-content/uploads/2022/06/volver-al-futuro-musical.jpg",
+      "clasificacion": false
+    },
+    {
+      "titulo": "2001: A Space Odyssey",
+      "director": "Stanley Kubrick",
+      "anio": 1968,
+      "portada": "https://www.dondeir.com/wp-content/uploads/2022/06/volver-al-futuro-musical.jpg",
+      "clasificacion": false
+    },
+    {
+      "titulo": "E.T. the Extra-Terrestrial",
+      "director": "Steven Spielberg",
+      "anio": 1982,
+      "portada": "https://www.dondeir.com/wp-content/uploads/2022/06/volver-al-futuro-musical.jpg",
+      "clasificacion": false
+    },
+    {
+      "titulo": "A.I. Artificial Intelligence",
+      "director": "Steven Spielberg",
+      "anio": 2001,
+      "portada": "https://www.dondeir.com/wp-content/uploads/2022/06/volver-al-futuro-musical.jpg",
+      "clasificacion": false
+    },
+    {
+      "titulo": "Gravity",
+      "director": "Alfonso Cuarón",
+      "anio": 2013,
+      "portada": "https://www.dondeir.com/wp-content/uploads/2022/06/volver-al-futuro-musical.jpg",
+      "clasificacion": false
+    },
+    {
+      "titulo": "The Terminator",
+      "director": "James Cameron",
+      "anio": 1984,
+      "portada": "https://www.dondeir.com/wp-content/uploads/2022/06/volver-al-futuro-musical.jpg",
+      "clasificacion": false
+    },
+    {
+      "titulo": "Minority Report",
+      "director": "Steven Spielberg",
+      "anio": 2002,
+      "portada": "https://www.dondeir.com/wp-content/uploads/2022/06/volver-al-futuro-musical.jpg",
+      "clasificacion": false
+    },
+    {
+      "titulo": "The Day After Tomorrow",
+      "director": "Roland Emmerich",
+      "anio": 2004,
+      "portada": "https://www.dondeir.com/wp-content/uploads/2022/06/volver-al-futuro-musical.jpg",
+      "clasificacion": false
+    },
+    {
+      "titulo": "Inception",
+      "director": "Christopher Nolan",
+      "anio": 2010,
+      "portada": "https://www.dondeir.com/wp-content/uploads/2022/06/volver-al-futuro-musical.jpg",
+      "clasificacion": false
+    },
+    {
+      "titulo": "Avatar",
+      "director": "James Cameron",
+      "anio": 2009,
+      "portada": "https://www.dondeir.com/wp-content/uploads/2022/06/volver-al-futuro-musical.jpg",
+      "clasificacion": false
+    },
+    {
+      "titulo": "The Martian",
+      "director": "Ridley Scott",
+      "anio": 2015,
+      "portada": "https://www.dondeir.com/wp-content/uploads/2022/06/volver-al-futuro-musical.jpg",
+      "clasificacion": false
+    }
+  ]
+  
+  }

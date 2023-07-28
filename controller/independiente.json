@@ -1,0 +1,262 @@
+{
+    "genero": "Independientes",
+    "peliculas": [
+      {
+        "id": 1,
+        "titulo": "Pequeña Miss Sunshine",
+        "genero": "Independiente",
+        "duracion": "101 minutos",
+        "sinopsis": "Una familia disfuncional viaja en una combi VW amarilla para llevar a su hija a un concurso de belleza.",
+        "actores": [
+          "Greg Kinnear",
+          "Toni Collette",
+          "Steve Carell",
+          "Abigail Breslin"
+        ],
+        "portada": "https://m.media-amazon.com/images/I/51nkZp1hEuL._AC_UF894,1000_QL80_.jpg",
+        "anio": 2006,
+        "director": "Jonathan Dayton, Valerie Faris"
+      },
+      {
+        "id": 2,
+        "titulo": "Juno",
+        "genero": "Independiente",
+        "duracion": "96 minutos",
+        "sinopsis": "Una adolescente embarazada busca la adopción perfecta para su bebé mientras enfrenta los desafíos de la vida adolescente.",
+        "actores": [
+          "Ellen Page",
+          "Michael Cera",
+          "Jennifer Garner",
+          "Jason Bateman"
+        ],
+        "portada": "https://es.web.img3.acsta.net/medias/nmedia/18/65/29/40/18883116.jpg",
+        "anio": 2007,
+        "director": "Jason Reitman"
+      },
+      {
+        "id": 3,
+        "titulo": "Lost in Translation",
+        "genero": "Independiente",
+        "duracion": "102 minutos",
+        "sinopsis": "Un encuentro inesperado en Tokio une a dos extraños que comparten una profunda conexión emocional.",
+        "actores": [
+          "Bill Murray",
+          "Scarlett Johansson",
+          "Giovanni Ribisi",
+          "Anna Faris"
+        ],
+        "portada": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ4vyUjHxC66V6o7qg0PNeKgZRYP8cX1vmSw&usqp=CAU",
+        "anio": 2003,
+        "director": "Sofia Coppola"
+      },
+      {
+        "id": 4,
+        "titulo": "Her",
+        "genero": "Independiente",
+        "duracion": "126 minutos",
+        "sinopsis": "Un escritor solitario se enamora de un sistema operativo de inteligencia artificial con una voz femenina.",
+        "actores": [
+          "Joaquin Phoenix",
+          "Scarlett Johansson",
+          "Amy Adams",
+          "Rooney Mara"
+        ],
+        "portada": "https://play-lh.googleusercontent.com/UuxMEgBXbXLZ3nJq3XpAaSbxiy3EOK1DPQ_kca3l_ROTePjxENxP2TRRAMpaN1Giwpgc",
+        "anio": 2013,
+        "director": "Spike Jonze"
+      },
+      {
+        "id": 5,
+        "titulo": "500 Days of Summer",
+        "genero": "Independiente",
+        "duracion": "95 minutos",
+        "sinopsis": "Una película romántica que cuenta la historia no lineal de una relación desde el punto de vista de Tom.",
+        "actores": [
+          "Joseph Gordon-Levitt",
+          "Zooey Deschanel",
+          "Geoffrey Arend",
+          "Chloë Grace Moretz"
+        ],
+        "portada": "https://leerader.files.wordpress.com/2012/05/500-days-of-summer.jpg",
+        "anio": 2009,
+        "director": "Marc Webb"
+      },
+      {
+        "id": 6,
+        "titulo": "Eterno resplandor de una mente sin recuerdos",
+        "genero": "Independiente",
+        "duracion": "108 minutos",
+        "sinopsis": "Una pareja que se ha separado voluntariamente se somete a un procedimiento para borrar sus recuerdos del otro.",
+        "actores": [
+          "Jim Carrey",
+          "Kate Winslet",
+          "Elijah Wood",
+          "Mark Ruffalo"
+        ],
+        "portada": "https://pics.filmaffinity.com/aOlvaidate_de_mai-487862604-large.jpg",
+        "anio": 2004,
+        "director": "Michel Gondry"
+      },
+      {
+        "id": 7,
+        "titulo": "Little Miss Sunshine",
+        "genero": "Independiente",
+        "duracion": "101 minutos",
+        "sinopsis": "Una familia disfuncional viaja en una combi VW amarilla para llevar a su hija a un concurso de belleza.",
+        "actores": [
+          "Greg Kinnear",
+          "Toni Collette",
+          "Steve Carell",
+          "Abigail Breslin"
+        ],
+        "portada": "https://images.justwatch.com/poster/300798075/s592/pequena-miss-sunshine",
+        "anio": 2006,
+        "director": "Jonathan Dayton, Valerie Faris"
+      },
+      {
+        "id": 8,
+        "titulo": "Begin Again",
+        "genero": "Independiente",
+        "duracion": "104 minutos",
+        "sinopsis": "Una cantante y un productor discográfico forman una colaboración musical después de un encuentro casual.",
+        "actores": [
+          "Keira Knightley",
+          "Mark Ruffalo",
+          "Adam Levine",
+          "Hailee Steinfeld"
+        ],
+        "portada": "https://m.media-amazon.com/images/M/MV5BNjAxMTI4MTgzMV5BMl5BanBnXkFtZTgwOTAwODEwMjE@._V1_.jpg",
+        "anio": 2013,
+        "director": "John Carney"
+      },
+      {
+        "id": 9,
+        "titulo": "Frances Ha",
+        "genero": "Independiente",
+        "duracion": "86 minutos",
+        "sinopsis": "Una joven bailarina busca su lugar en el mundo mientras enfrenta la vida adulta y la amistad.",
+        "actores": [
+          "Greta Gerwig",
+          "Mickey Sumner",
+          "Adam Driver",
+          "Michael Zegen"
+        ],
+        "portada": "https://s3.amazonaws.com/criterion-production/films/696c37eed59910dfea4434e026341851/inQvZ3WX3kf2maiBNowA2WVCzoqTOe_large.jpg",
+        "anio": 2012,
+        "director": "Noah Baumbach"
+      },
+      {
+        "id": 11,
+        "titulo": "Moonlight",
+        "genero": "Independiente",
+        "duracion": "111 minutos",
+        "sinopsis": "Un joven afroamericano lucha por encontrar su lugar en el mundo mientras crece en un barrio difícil de Miami.",
+        "actores": [
+          "Trevante Rhodes",
+          "Ashton Sanders",
+          "Alex R. Hibbert",
+          "Mahershala Ali"
+        ],
+        "portada": "https://m.media-amazon.com/images/I/81PKkTqhc3L._AC_UF894,1000_QL80_.jpg",
+        "anio": 2016,
+        "director": "Barry Jenkins"
+      },
+      {
+        "id": 12,
+        "titulo": "Blue Valentine",
+        "genero": "Independiente",
+        "duracion": "112 minutos",
+        "sinopsis": "Una pareja casada lucha por mantener viva su relación mientras se revelan los recuerdos de su pasado.",
+        "actores": [
+          "Ryan Gosling",
+          "Michelle Williams",
+          "Faith Wladyka",
+          "John Doman"
+        ],
+        "portada": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/c63e0fac036ed5ef3107328abc7335d426ad7096c0f489ad4a606221cfe2a027._RI_V_TTW_.jpg",
+        "anio": 2010,
+        "director": "Derek Cianfrance"
+      },
+      {
+        "id": 13,
+        "titulo": "Election",
+        "genero": "Independiente",
+        "duracion": "103 minutos",
+        "sinopsis": "Un estudiante de secundaria ambicioso y una maestra obsesionada compiten por el cargo de presidente estudiantil.",
+        "actores": [
+          "Matthew Broderick",
+          "Reese Witherspoon",
+          "Chris Klein",
+          "Jessica Campbell"
+        ],
+        "portada": "https://m.media-amazon.com/images/I/91VWXc6BU6L._AC_UF894,1000_QL80_.jpg",
+        "anio": 1999,
+        "director": "Alexander Payne"
+      },
+      {
+        "id": 14,
+        "titulo": "The Florida Project",
+        "genero": "Independiente",
+        "duracion": "111 minutos",
+        "sinopsis": "Una madre y su hija de seis años viven en un motel económico cerca de Disneyland mientras luchan por sobrevivir.",
+        "actores": [
+          "Brooklynn Prince",
+          "Bria Vinaite",
+          "Willem Dafoe",
+          "Valeria Cotto"
+        ],
+        "portada": "https://www.mubis.es/media/articles/18418/205444/detalles-del-blu-ray-de-the-florida-project-l_cover.jpg",
+        "anio": 2017,
+        "director": "Sean Baker"
+      },
+      {
+        "id": 15,
+        "titulo": "Before Sunrise",
+        "genero": "Independiente",
+        "duracion": "105 minutos",
+        "sinopsis": "Dos desconocidos se encuentran en un tren en Europa y deciden pasar un día juntos en Viena.",
+        "actores": [
+          "Ethan Hawke",
+          "Julie Delpy",
+          "Andrea Eckert",
+          "Hanno Pöschl"
+        ],
+        "portada": "https://i.ebayimg.com/images/g/GmYAAOSwpDpgvpp4/s-l1200.jpg",
+        "anio": 1995,
+        "director": "Richard Linklater"
+      },
+      {
+        "id": 16,
+        "titulo": "Lady Bird",
+        "genero": "Independiente",
+        "duracion": "94 minutos",
+        "sinopsis": "Una adolescente en Sacramento navega por los desafíos de la vida, la amistad y la relación con su madre.",
+        "actores": [
+          "Saoirse Ronan",
+          "Laurie Metcalf",
+          "Tracy Letts",
+          "Lucas Hedges"
+        ],
+        "portada": "https://musicart.xboxlive.com/7/d1ab5000-0000-0000-0000-000000000002/504/image.jpg?w=1920&h=1080",
+        "anio": 2017,
+        "director": "Greta Gerwig"
+      },
+      {
+        "id": 17,
+        "titulo": "Boyhood",
+        "genero": "Independiente",
+        "duracion": "165 minutos",
+        "sinopsis": "Una película que sigue la vida de un niño desde la infancia hasta la adultez a lo largo de 12 años.",
+        "actores": [
+          "Ellar Coltrane",
+          "Patricia Arquette",
+          "Ethan Hawke",
+          "Lorelei Linklater"
+        ],
+        "portada": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkxn5qrXBbakPpEOj7A9ozRGhPB2kThxd49w&usqp=CAU",
+        "anio": 2014,
+        "director": "Richard Linklater"
+      }
+    ]
+  }
+  
