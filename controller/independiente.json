@@ -15,7 +15,8 @@
         ],
         "portada": "https://m.media-amazon.com/images/I/51nkZp1hEuL._AC_UF894,1000_QL80_.jpg",
         "anio": 2006,
-        "director": "Jonathan Dayton, Valerie Faris"
+        "director": "Jonathan Dayton, Valerie Faris",
+        "calificacion": 3.1
       },
       {
         "id": 2,
@@ -31,7 +32,8 @@
         ],
         "portada": "https://es.web.img3.acsta.net/medias/nmedia/18/65/29/40/18883116.jpg",
         "anio": 2007,
-        "director": "Jason Reitman"
+        "director": "Jason Reitman",
+        "calificacion": 4.5
       },
       {
         "id": 3,
@@ -47,7 +49,8 @@
         ],
         "portada": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ4vyUjHxC66V6o7qg0PNeKgZRYP8cX1vmSw&usqp=CAU",
         "anio": 2003,
-        "director": "Sofia Coppola"
+        "director": "Sofia Coppola",
+        "calificacion": 2.2
       },
       {
         "id": 4,
@@ -63,7 +66,8 @@
         ],
         "portada": "https://play-lh.googleusercontent.com/UuxMEgBXbXLZ3nJq3XpAaSbxiy3EOK1DPQ_kca3l_ROTePjxENxP2TRRAMpaN1Giwpgc",
         "anio": 2013,
-        "director": "Spike Jonze"
+        "director": "Spike Jonze",
+        "calificacion": 4.5
       },
       {
         "id": 5,
@@ -79,7 +83,8 @@
         ],
         "portada": "https://leerader.files.wordpress.com/2012/05/500-days-of-summer.jpg",
         "anio": 2009,
-        "director": "Marc Webb"
+        "director": "Marc Webb",
+        "calificacion": 4.5
       },
       {
         "id": 6,
@@ -95,7 +100,8 @@
         ],
         "portada": "https://pics.filmaffinity.com/aOlvaidate_de_mai-487862604-large.jpg",
         "anio": 2004,
-        "director": "Michel Gondry"
+        "director": "Michel Gondry",
+        "calificacion": 4.5
       },
       {
         "id": 7,
@@ -111,7 +117,8 @@
         ],
         "portada": "https://images.justwatch.com/poster/300798075/s592/pequena-miss-sunshine",
         "anio": 2006,
-        "director": "Jonathan Dayton, Valerie Faris"
+        "director": "Jonathan Dayton, Valerie Faris",
+        "calificacion": 4.5
       },
       {
         "id": 8,
@@ -127,7 +134,8 @@
         ],
         "portada": "https://m.media-amazon.com/images/M/MV5BNjAxMTI4MTgzMV5BMl5BanBnXkFtZTgwOTAwODEwMjE@._V1_.jpg",
         "anio": 2013,
-        "director": "John Carney"
+        "director": "John Carney",
+        "calificacion": 4.5
       },
       {
         "id": 9,
@@ -143,7 +151,8 @@
         ],
         "portada": "https://s3.amazonaws.com/criterion-production/films/696c37eed59910dfea4434e026341851/inQvZ3WX3kf2maiBNowA2WVCzoqTOe_large.jpg",
         "anio": 2012,
-        "director": "Noah Baumbach"
+        "director": "Noah Baumbach",
+        "calificacion": 3.5
       },
       {
         "id": 11,
@@ -175,7 +184,8 @@
         ],
         "portada": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/c63e0fac036ed5ef3107328abc7335d426ad7096c0f489ad4a606221cfe2a027._RI_V_TTW_.jpg",
         "anio": 2010,
-        "director": "Derek Cianfrance"
+        "director": "Derek Cianfrance", 
+        "calificacion": 4.5
       },
       {
         "id": 13,
@@ -191,7 +201,8 @@
         ],
         "portada": "https://m.media-amazon.com/images/I/91VWXc6BU6L._AC_UF894,1000_QL80_.jpg",
         "anio": 1999,
-        "director": "Alexander Payne"
+        "director": "Alexander Payne",
+        "calificacion": 1.5
       },
       {
         "id": 14,
@@ -207,7 +218,8 @@
         ],
         "portada": "https://www.mubis.es/media/articles/18418/205444/detalles-del-blu-ray-de-the-florida-project-l_cover.jpg",
         "anio": 2017,
-        "director": "Sean Baker"
+        "director": "Sean Baker",
+        "calificacion": 2.5
       },
       {
         "id": 15,
@@ -223,7 +235,8 @@
         ],
         "portada": "https://i.ebayimg.com/images/g/GmYAAOSwpDpgvpp4/s-l1200.jpg",
         "anio": 1995,
-        "director": "Richard Linklater"
+        "director": "Richard Linklater",
+        "calificacion": 4.5
       },
       {
         "id": 16,
@@ -239,7 +252,8 @@
         ],
         "portada": "https://musicart.xboxlive.com/7/d1ab5000-0000-0000-0000-000000000002/504/image.jpg?w=1920&h=1080",
         "anio": 2017,
-        "director": "Greta Gerwig"
+        "director": "Greta Gerwig",
+        "calificacion": 4.8
       },
       {
         "id": 17,
@@ -255,7 +269,8 @@
         ],
         "portada": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkxn5qrXBbakPpEOj7A9ozRGhPB2kThxd49w&usqp=CAU",
         "anio": 2014,
-        "director": "Richard Linklater"
+        "director": "Richard Linklater",
+        "calificacion": 2.5
       }
     ]
   }
