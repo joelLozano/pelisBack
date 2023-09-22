@@ -9,4 +9,6 @@ router.get('/comedia', controller.getConedia)
 
 router.get('/independientes', controller.independientes)
 
+router.get('/celulares', controller.celulares)
+
 module.exports = router;
