@@ -2,6 +2,7 @@ const comediaJson = require('./comedia.json')
 const cienciaFiccion = require('./cienciaFiccion.json')
 const independientesJson = require('./independiente.json')
 const celularesJson = require('./celulares.json')
+const clasicasJson = require('./clasicas.json')
 const getCF = (req, res) => {
     res.json(cienciaFiccion)
 }
@@ -14,8 +15,12 @@ const independientes = (req, res) => {
     res.json(independientesJson)
 }
 
+const clasicas = (req, res) => {
+    res.json(clasicasJson)
+}
+
 const celulares = (req, res) => {
     res.json(celularesJson)
 }
 
-module.exports = { getCF, getConedia, independientes, celulares }
+module.exports = { getCF, getConedia, independientes, celulares, clasicas }
