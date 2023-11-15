@@ -25,7 +25,7 @@ const celulares = (req, res) => {
 }
 
 const home = (req, res) => {
-    res.json()
+    res.json(homeJson)
 }
 
 module.exports = { getCF, getConedia, independientes, celulares, clasicas, home }
