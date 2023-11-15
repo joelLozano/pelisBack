@@ -13,4 +13,6 @@ router.get('/celulares', controller.celulares)
 
 router.get('/clasicas', controller.clasicas)
 
+router.get('/home', controller.home)
+
 module.exports = router;

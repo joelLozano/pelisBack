@@ -1,0 +1,256 @@
+{
+    "portada": [
+        {
+            "portada": "https://www.lahiguera.net/cinemania/pelicula/6395/la_gran_estafa_americana-cartel-5306.jpg",
+            "titulo": "La Gran Estafa"
+        }, {
+            "portada": "https://www.lahiguera.net/cinemania/pelicula/6395/la_gran_estafa_americana-cartel-5306.jpg",
+            "titulo": "La Gran Estafa 2"
+        }
+    ], 
+    "peliculas" :[
+        {
+            "id": 1,
+            "titulo": "La Gran Estafa",
+            "genero": "Comedia",
+            "duracion": "125 minutos",
+            "director": "Matt Damon",
+            "sinopsis": "Un grupo de estafadores planea robar un casino en Las Vegas durante un combate de boxeo importante.",
+            "calificacion": 4.5,
+            "actores": [
+              "George Clooney",
+              "Brad Pitt",
+              "Matt Damon",
+              "Julia Roberts"
+            ],
+            "portada": "https://www.lahiguera.net/cinemania/pelicula/6395/la_gran_estafa_americana-cartel-5306.jpg",
+            "triler": "https://www.youtube.com/watch?v=pRg5kFLu5YM",
+            "anio": 2001
+          },
+          {
+            "id": 2,
+            "titulo": "Noche en el Museo",
+            "genero": "Comedia",
+            "duracion": "108 minutos",
+            "sinopsis": "Un guardia de seguridad nocturno descubre que las exhibiciones de un museo cobran vida durante la noche.",
+            "actores": [
+              "Ben Stiller",
+              "Robin Williams",
+              "Owen Wilson",
+              "Dick Van Dyke"
+            ],
+            "portada": "https://pics.filmaffinity.com/Noche_en_el_museo-110975630-large.jpg",
+            "calificacion": 3,
+            "triler": "https://www.youtube.com/watch?v=MlQvqErjI1Q",
+            "anio": 2003
+          },
+          {
+            "id": 3,
+            "titulo": "Zoolander",
+            "genero": "Comedia",
+            "duracion": "90 minutos",
+            "sinopsis": "Un modelo masculino poco inteligente pero carismático se ve envuelto en una conspiración criminal.",
+            "actores": [
+              "Ben Stiller",
+              "Owen Wilson",
+              "Christine Taylor",
+              "Will Ferrell"
+            ],
+            "portada": "https://m.media-amazon.com/images/I/91xDxe8RPPL._AC_UF894,1000_QL80_.jpg",
+            "calificacion": 5,
+            "triler": "https://www.youtube.com/watch?v=YtQq0T3ExLs",
+            "anio": 2001
+          },
+        {
+          "id": 4,
+          "titulo": "El Padrino",
+          "director": "Francis Ford Coppola",
+          "anio": 1972,
+          "portada": "https://play-lh.googleusercontent.com/UuxMEgBXbXLZ3nJq3XpAaSbxiy3EOK1DPQ_kca3l_ROTePjxENxP2TRRAMpaN1Giwpgc",
+          "clasificacion": "R",
+          "actores": ["Marlon Brando", "Al Pacino"],
+          "genero": "Crimen",
+          "duracion": 175,
+          "sinopsis": "Un poderoso patriarca de la mafia busca transferir el control de su imperio a su hijo más joven.",
+          "trailer": "el-padrino_trailer.mp4"
+        },
+        {
+          "id": 5,
+          "titulo": "Tiburon",
+          "director": "Steven Spielberg",
+          "anio": 1975,
+          "portada": "https://play-lh.googleusercontent.com/UuxMEgBXbXLZ3nJq3XpAaSbxiy3EOK1DPQ_kca3l_ROTePjxENxP2TRRAMpaN1Giwpgc",
+          "clasificacion": "PG",
+          "actores": ["Roy Scheider", "Robert Shaw"],
+          "genero": "Terror",
+          "duracion": 124,
+          "sinopsis": "Un gran tiburón blanco aterroriza a una pequeña isla costera, y un grupo de cazadores de tiburones se une para detenerlo.",
+          "trailer": "tiburon_trailer.mp4"
+        },
+        {
+          "id": 6,
+          "titulo": "Cantando bajo la lluvia",
+          "director": "Stanley Donen, Gene Kelly",
+          "anio": 1952,
+          "portada": "https://play-lh.googleusercontent.com/UuxMEgBXbXLZ3nJq3XpAaSbxiy3EOK1DPQ_kca3l_ROTePjxENxP2TRRAMpaN1Giwpgc",
+          "clasificacion": "G",
+          "actores": ["Gene Kelly", "Donald O'Connor"],
+          "genero": "Musical",
+          "duracion": 103,
+          "sinopsis": "Una película de cine mudo se convierte en un musical sonoro, y los actores deben adaptarse a los cambios.",
+          "trailer": "cantando-bajo-la-lluvia_trailer.mp4"
+        },
+        
+        {
+          "id": 10,
+          "titulo": "La guerra de las galaxias",
+          "director": "George Lucas",
+          "anio": 1977,
+          "portada": "https://play-lh.googleusercontent.com/UuxMEgBXbXLZ3nJq3XpAaSbxiy3EOK1DPQ_kca3l_ROTePjxENxP2TRRAMpaN1Giwpgc",
+          "clasificacion": "PG",
+          "actores": ["Mark Hamill", "Harrison Ford"],
+          "genero": "Ciencia ficción",
+          "duracion": 121,
+          "sinopsis": "Un joven granjero se embarca en una epopeya intergaláctica para rescatar a una princesa y luchar contra un imperio maligno.",
+          "trailer": "la-guerra-de-las-galaxias_trailer.mp4"
+        },
+        {
+            "id": 11,
+            "titulo": "Psicosis",
+            "director": "Alfred Hitchcock",
+            "anio": 1960,
+            "portada": "https://play-lh.googleusercontent.com/UuxMEgBXbXLZ3nJq3XpAaSbxiy3EOK1DPQ_kca3l_ROTePjxENxP2TRRAMpaN1Giwpgc",
+            "clasificacion": "R",
+            "actores": ["Anthony Perkins", "Janet Leigh"],
+            "genero": "Terror",
+            "duracion": 109,
+            "sinopsis": "Una secretaria emprende un viaje y se detiene en un motel remoto donde conoce al inquietante propietario.",
+            "trailer": "psicosis_trailer.mp4"
+          },
+          
+          {
+            "id": 15,
+            "titulo": "Cenicienta",
+            "director": "Clyde Geronimi, Wilfred Jackson",
+            "anio": 1950,
+            "portada": "https://play-lh.googleusercontent.com/UuxMEgBXbXLZ3nJq3XpAaSbxiy3EOK1DPQ_kca3l_ROTePjxENxP2TRRAMpaN1Giwpgc",
+            "clasificacion": "G",
+            "actores": ["Ilene Woods", "Eleanor Audley"],
+            "genero": "Animación",
+            "duracion": 74,
+            "sinopsis": "La historia de una joven maltratada que, con la ayuda de su hada madrina, asiste al baile real y conquista al príncipe.",
+            "trailer": "cenicienta_trailer.mp4"
+          },
+          {
+            "id": 1,
+            "titulo": "Casablanca",
+            "director": "Michael Curtiz",
+            "anio": 1942,
+            "portada": "https://play-lh.googleusercontent.com/UuxMEgBXbXLZ3nJq3XpAaSbxiy3EOK1DPQ_kca3l_ROTePjxENxP2TRRAMpaN1Giwpgc",
+            "clasificacion": "PG",
+            "actores": ["Humphrey Bogart", "Ingrid Bergman"],
+            "genero": "Drama",
+            "duracion": 102,
+            "sinopsis": "En Casablanca, un gerente de un café se ve envuelto en asuntos de amor y guerra durante la Segunda Guerra Mundial.",
+            "trailer": "casablanca_trailer.mp4"
+          },
+          {
+            "id": 2,
+            "titulo": "Lo que el viento se llevó",
+            "director": "Victor Fleming",
+            "anio": 1939,
+            "portada": "https://play-lh.googleusercontent.com/UuxMEgBXbXLZ3nJq3XpAaSbxiy3EOK1DPQ_kca3l_ROTePjxENxP2TRRAMpaN1Giwpgc",
+            "clasificacion": "PG-13",
+            "actores": ["Clark Gable", "Vivien Leigh"],
+            "genero": "Drama",
+            "duracion": 238,
+            "sinopsis": "Una mujer apasionada lucha por su amor y su tierra durante la Guerra Civil estadounidense.",
+            "trailer": "lo-que-el-viento-se-llevo_trailer.mp4"
+          },
+          {
+            "id": 3,
+            "titulo": "El Mago de Oz",
+            "director": "Victor Fleming",
+            "anio": 1939,
+            "portada": "https://play-lh.googleusercontent.com/UuxMEgBXbXLZ3nJq3XpAaSbxiy3EOK1DPQ_kca3l_ROTePjxENxP2TRRAMpaN1Giwpgc",
+            "clasificacion": "G",
+            "actores": ["Judy Garland", "Frank Morgan"],
+            "genero": "Aventura",
+            "duracion": 102,
+            "sinopsis": "Una joven llamada Dorothy es llevada a un mundo mágico y debe seguir el camino de baldosas amarillas para regresar a casa.",
+            "trailer": "el-mago-de-oz_trailer.mp4"
+          },
+          {
+            "id": 4,
+            "titulo": "El Padrino",
+            "director": "Francis Ford Coppola",
+            "anio": 1972,
+            "portada": "https://play-lh.googleusercontent.com/UuxMEgBXbXLZ3nJq3XpAaSbxiy3EOK1DPQ_kca3l_ROTePjxENxP2TRRAMpaN1Giwpgc",
+            "clasificacion": "R",
+            "actores": ["Marlon Brando", "Al Pacino"],
+            "genero": "Crimen",
+            "duracion": 175,
+            "sinopsis": "Un poderoso patriarca de la mafia busca transferir el control de su imperio a su hijo más joven.",
+            "trailer": "el-padrino_trailer.mp4"
+            
+          },
+          {
+            "id" : 6,
+            "titulo": "Alien: El octavo pasajero",
+            "director": "Ridley Scott",
+            "anio": 1979,
+            "portada": "https://d1gl66oyi6i593.cloudfront.net/wp-content/uploads/2015/10/localizacionres-regreso-al-futuro.jpg",
+            "clasificacion": false
+          },
+          {
+            "id" : 7,
+            "titulo": "Jurassic Park",
+            "director": "Steven Spielberg",
+            "anio": 1993,
+            "portada": "https://d1gl66oyi6i593.cloudfront.net/wp-content/uploads/2015/10/localizacionres-regreso-al-futuro.jpg",
+            "clasificacion": false
+          },
+          {
+            "id" : 8,
+            "titulo": "El Quinto Elemento",
+            "director": "Luc Besson",
+            "anio": 1997,
+            "portada": "https://d1gl66oyi6i593.cloudfront.net/wp-content/uploads/2015/10/localizacionres-regreso-al-futuro.jpg",
+            "clasificacion": false
+          },
+          {
+            "id": 4,
+            "titulo": "Her",
+            "genero": "Independiente",
+            "duracion": "126 minutos",
+            "sinopsis": "Un escritor solitario se enamora de un sistema operativo de inteligencia artificial con una voz femenina.",
+            "actores": [
+              "Joaquin Phoenix",
+              "Scarlett Johansson",
+              "Amy Adams",
+              "Rooney Mara"
+            ],
+            "portada": "https://play-lh.googleusercontent.com/UuxMEgBXbXLZ3nJq3XpAaSbxiy3EOK1DPQ_kca3l_ROTePjxENxP2TRRAMpaN1Giwpgc",
+            "anio": 2013,
+            "director": "Spike Jonze",
+            "calificacion": 4.5
+          },
+          {
+            "id": 5,
+            "titulo": "500 Days of Summer",
+            "genero": "Independiente",
+            "duracion": "95 minutos",
+            "sinopsis": "Una película romántica que cuenta la historia no lineal de una relación desde el punto de vista de Tom.",
+            "actores": [
+              "Joseph Gordon-Levitt",
+              "Zooey Deschanel",
+              "Geoffrey Arend",
+              "Chloë Grace Moretz"
+            ],
+            "portada": "https://leerader.files.wordpress.com/2012/05/500-days-of-summer.jpg",
+            "anio": 2009,
+            "director": "Marc Webb",
+            "calificacion": 4.5
+          }
+        ]
+}
